@@ -1,6 +1,7 @@
 # Blinkit Online Ordering & Merchant Integration System
 A streamlined application for placing grocery orders, managing carts, and processing merchant integrations.
 📌 Project Overview
+<img width="862" height="481" alt="blinkit project dashboard" src="https://github.com/user-attachments/assets/51b3c432-b2c6-49a1-9818-52491ea61c1c" />
 
 This project replicates key functionalities of Blinkit, focusing on:
 
